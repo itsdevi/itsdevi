@@ -3,7 +3,7 @@
 I'm a passionate computer science student pursuing my B.Tech with a specialization in Computer Science. I have a keen interest in software development, artificial intelligence, and web development.
 
 - 🔭 My team and I developed a multimodal system for deepfake detection using deep learning.
-- 🌱 I’m currently learning typescript.
+- 🌱 I’m currently learning typescript & SQLite.
 - 📫 How to reach me:
   www.linkedin.com/in/devikrishna-u-53b545202
   or
