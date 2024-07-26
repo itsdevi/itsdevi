@@ -1,6 +1,6 @@
 ### Hi guyss 👋 I'm Devi
 
-I'm a passionate computer science student pursuing my B.Tech with a specialization in Computer Science. I have a keen interest in software development, artificial intelligence, and web development.
+I'm a passionate computer science graduate with B.Tech in Computer Science. I have a keen interest in software development, artificial intelligence, and web development.
 
 - 🔭 My team and I developed a multimodal system for deepfake detection using deep learning.
 - 🌱 I’m currently learning typescript & SQLite.
